@@ -3,3 +3,4 @@
 ## V1.1 - 9/9/2026 - added research section, updated TOC
 ## V1.2 - 9/9/2026 - Added vision/scope, SRS section, updated TOC
 ## V1.3 - 9/15/2026 - added work breakdown structure(wbs) section
+## V1.4 - 9/16/2026 - added gantt chart
