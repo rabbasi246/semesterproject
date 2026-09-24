@@ -4,3 +4,4 @@
 ## V1.2 - 9/9/2026 - Added vision/scope, SRS section, updated TOC
 ## V1.3 - 9/15/2026 - added work breakdown structure(wbs) section
 ## V1.4 - 9/16/2026 - added gantt chart
+## V1.5 - 9/23/2026 - added product backlog and sprint 1 planning on trello
