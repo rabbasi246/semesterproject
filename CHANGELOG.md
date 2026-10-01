@@ -5,3 +5,4 @@
 ## V1.3 - 9/15/2026 - added work breakdown structure(wbs) section
 ## V1.4 - 9/16/2026 - added gantt chart
 ## V1.5 - 9/23/2026 - added product backlog and sprint 1 planning on trello
+## V1.6 - 9/30/2026 - added Risk, Quality, and Communication Management section (only the risk part)
