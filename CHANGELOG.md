@@ -7,3 +7,4 @@
 ## V1.5 - 9/23/2026 - added product backlog and sprint 1 planning on trello
 ## V1.6 - 9/30/2026 - added Risk, Quality, and Communication Management section (only the risk part)
 ## V1.7 - 10/1/2026 - added risk register and communication plan
+## V1.8 - 10/7/2026 - added roles & resources, resource & cost plan, and RACI matrix
