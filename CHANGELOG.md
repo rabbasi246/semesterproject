@@ -11,3 +11,4 @@
 ## V1.9 - 10/15/2026 - updated gantt chart to span 12 weeks and added UI/UX design to WBS and timeline, added FR13 and UC16 for operator registration/login, added user stories section, fixed R9 owner in risk register to project manager, reworded communication plan daily stand-up line, and format fixes
 ## V1.10 - 10/28/2026 - added stakeholder analysis using the power-interest grid
 ## V1.11 - 10/29/2026 - added team charter and project charter
+## V1.12 - 11/5/2026 - added project closure report (executive summary, achievements and shortfalls, lessons learned, recommendations) marked internal
