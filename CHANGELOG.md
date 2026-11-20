@@ -12,3 +12,4 @@
 ## V1.10 - 10/28/2026 - added stakeholder analysis using the power-interest grid
 ## V1.11 - 10/29/2026 - added team charter and project charter
 ## V1.12 - 11/5/2026 - added project closure report (executive summary, achievements and shortfalls, lessons learned, recommendations) marked internal
+## V1.13 - 11/19/2025 - expanded closure report with post-project scaling contract proposal
